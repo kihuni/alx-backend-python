@@ -1,6 +1,6 @@
 echo "adding file to git hub"
 
-sleep 10s
+sleep 2s
 
 git add .
 
