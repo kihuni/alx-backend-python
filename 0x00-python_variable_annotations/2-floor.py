@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-""" Basic type-annotated function """
+""" Basic annotations floor """
 
 import math
 
-def floor(n:float) -> int:
+
+def floor(n: float) -> int:
     """ Returns the floor of the float """
     return math.floor(n)
-
