@@ -8,7 +8,7 @@ sleep 4
 
 echo "commiting changes"
 
-git commit -m "adding python variable task"
+git commit -m "adding unnitest tasks"
 
 sleep 6
 
